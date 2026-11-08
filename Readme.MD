@@ -34,7 +34,8 @@ Big shoutout [Obabo](https://www.obabo.org/) for the case design! I gave him a p
 VIAL firmware commissioned by [HaiZeus.](https://www.haikey.design/) Thank you again so much!
 
 ### KLC layout
-![KLC layout]()
+![KLC layout](https://github.com/DashDashUnderscoreDash/Boss-Up/blob/main/Images/Boss%20Up%20KLC.jpg)
+
 [Link to KLC layout](https://keyboard-layout-creator.com/layout/cmld2yzt60012ph01oxg7fi4k)
 
 ### Images
