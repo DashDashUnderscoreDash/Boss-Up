@@ -1,8 +1,8 @@
 # **Boss Up**
 
-Boss Up is an STM32 12u PCB with leaf spring tadpole mounting
+Boss Up is an STM32 12u unibody split alphastag PCB with leaf spring tadpole mounting
 
-The goal of this PCB is to exercise AVO and get, what I think is, the perfect board out into the world. Forced layout, forced solder. The bottom case uses custom cut cork for the feet and goes into 0.2mm deep channels. The customer installed themselves, unless they opted to have me install it for them.
+The goal of this PCB is to exercise AVO and get, what I think is, the perfect board out into the world. Forced layout, forced solder, and crazy bouncy. The bottom case uses custom cut cork for the feet and goes into 0.2mm deep channels. The customer installed themselves, unless they opted to have me install it for them.
 
 It was ciritcal to me that the board wasn't your typical experience. You don't just open it, solder switches, and drop in the PCB. You are involved in the build, you bring it all together, it takes time. It sounds a little silly, but the community has responded well and the goal was acheived! 
 
@@ -14,7 +14,7 @@ I did a run of 26 units for R2. I gaveaway a *luxury* unit in the 40s Discord, t
 - Brown: Sold out in 3 minutes, limited to 10 units
 
 ### **Of note:**
-I *never* try to create artificial scarcity. **I never will.** I self fund and don't do group buys, do I am limited in the cash I can type up in keyboard buys. I will probably do an R3 as demand is still high and I want these boards in people's hands that really want them. Apologies to anyone who wasn't able to get a unit that tried due to them selling out so fast. I legit feel bad </3
+I *never* try to create artificial scarcity. **I never will.** I self fund and don't do group buys, so I am limited in the cash I can type up in keyboard buys. I will probably do an R3 as demand is still high and I want these boards in people's hands that really want them. Apologies to anyone who wasn't able to get a unit that tried due to them selling out so fast. I legit feel bad </3
 
 
 
