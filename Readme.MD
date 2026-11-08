@@ -16,6 +16,8 @@ I did a run of 26 units for R2. I gaveaway a *luxury* unit in the 40s Discord, t
 ### **Of note:**
 I *never* try to create artificial scarcity. **I never will.** I self fund and don't do group buys, do I am limited in the cash I can type up in keyboard buys. I will probably do an R3 as demand is still high and I want these boards in people's hands that really want them. Apologies to anyone who wasn't able to get a unit that tried due to them selling out so fast. I legit feel bad </3
 
+
+
 The support from the community has been insane, especially for my first milled drop. I cannot stress how much it means to me. Thank you, truly, and from the bottom of my heart. I'm going to ride this momentum and keep making boards for y'all!
 
 Big shoutout [Obabo](https://www.obabo.org/) for the case design! I gave him a paper with a very rough drawing and he cooked up the final case. I think it's beautiful, bold enough to have personality and be unique, but not too bold to be distracting. If you're ever looking for a case commission I HIGHLY suggest working with him!
@@ -36,9 +38,9 @@ VIAL firmware commissioned by [HaiZeus.](https://www.haikey.design/) Thank you a
 [Link to KLC layout](https://keyboard-layout-creator.com/layout/cmld2yzt60012ph01oxg7fi4k)
 
 ### Images
-![Luxury Case Front]()
-![Luxury Case Back]()
-![Luxury Case Back No Cork]()
-![PCB Front]()
-![PCB Back]()
-![PCB Logo]()
+![Luxury Case Front](https://github.com/DashDashUnderscoreDash/Boss-Up/blob/main/Images/Boss%20Up%20R2%2012%20-%20169%20-%201080.png)
+![Luxury Case Back](https://github.com/DashDashUnderscoreDash/Boss-Up/blob/main/Images/Boss%20Up%20R2%207%20-%20169%20-%201080.png)
+![Luxury Case Back No Cork](https://github.com/DashDashUnderscoreDash/Boss-Up/blob/main/Images/Boss%20Up%20R2%2010%20-%20169%20-%201080.png)
+![PCB Front](https://github.com/DashDashUnderscoreDash/Boss-Up/blob/main/Images/Boss%20Up%20R2%20PCB%202%20-%20169%20-%201080.png)
+![PCB Back](https://github.com/DashDashUnderscoreDash/Boss-Up/blob/main/Images/Boss%20Up%20R2%20PCB%204%20-%20169%20-%201080.png)
+![PCB Logo](https://github.com/DashDashUnderscoreDash/Boss-Up/blob/main/Images/Boss%20Up%20R2%20PCB%201%20-%20169%20-%201080.png)
