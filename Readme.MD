@@ -25,7 +25,7 @@ Big shoutout [Obabo](https://www.obabo.org/) for the case design! I gave him a p
 <br>
 
 ### In this repo you will find:
-```diff
+```
 - Layout options
 - Images of PCB
 - Firmware
