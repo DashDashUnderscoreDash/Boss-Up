@@ -23,6 +23,7 @@ The support from the community has been insane, especially for my first milled d
 Big shoutout [Obabo](https://www.obabo.org/) for the case design! I gave him a paper with a very rough drawing and he cooked up the final case. I think it's beautiful, bold enough to have personality and be unique, but not too bold to be distracting. If you're ever looking for a case commission I HIGHLY suggest working with him!
 
 <br>
+
 ### In this repo you will find:
 ```diff
 - Layout options
