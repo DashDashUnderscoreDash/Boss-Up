@@ -1,8 +1,8 @@
 # **Boss Up**
 
-Boss Up is an STM32 12u unibody split alphastag PCB with leaf spring tadpole mounting
+Boss Up is an STM32 12u unibody split alphastag board with leaf spring tadpole mounting on the PCB and a milled case.
 
-The goal of this PCB is to exercise AVO and get, what I think is, the perfect board out into the world. Forced layout, forced solder, and crazy bouncy. The bottom case uses custom cut cork for the feet and goes into 0.2mm deep channels. The customer installed themselves, unless they opted to have me install it for them.
+The goal of this PCB is to exercise AVO and get, what I think is, the perfect board out into the world. Forced layout, forced solder, and crazy flex, without feeling 'loose' or 'sloppy'. The bottom case uses custom cut cork for the feet and goes into 0.2mm deep channels. The customer installed themselves, unless they opted to have me install it for them.
 
 It was ciritcal to me that the board wasn't your typical experience. You don't just open it, solder switches, and drop in the PCB. You are involved in the build, you bring it all together, it takes time. It sounds a little silly, but the community has responded well and the goal was acheived! 
 
