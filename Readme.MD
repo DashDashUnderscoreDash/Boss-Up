@@ -32,7 +32,9 @@ Big shoutout [Obabo](https://www.obabo.org/) for the case design! I gave him a p
 - No STEP of PCB or edgecuts, I don't want to open source this any time soon as I'm planning more buys
 ```
 
-VIAL firmware commissioned by [HaiZeus.](https://www.haikey.design/) Thank you again so much!
+VIAL firmware for R1 commissioned by [HaiZeus.](https://www.haikey.design/)
+VIAL firmware for R2 commission by Bryan (I redid the PCB for cleaner routing and better slikscreen/art)
+Thank you both again so much! <3
 
 ### KLC layout
 ![KLC layout](https://github.com/DashDashUnderscoreDash/Boss-Up/blob/main/Images/Boss%20Up%20KLC.jpg)
