@@ -8,7 +8,7 @@ It was ciritcal to me that the board wasn't your typical experience. You don't j
 
 R1 was a private buy of 10 units with friends. The community responded very well so I did an R2.
 
-I did a run of 26 units for R2. I gaveaway a *luxury* unit in the 40s Discord, then went live with the in stock drop 1 week later. The drop went insanley well and sold out out very fast:
+I did a run of 26 units for R2. I gave away a *luxury* unit in the 40s Discord, then went live with the in stock drop 1 week later. The drop went insanely well and sold out out very fast:
 - *Luxury*: Sold out in 30 seconds, limited to 5 units
 - Grey: Sold out in 1 minute, limited to 10 units
 - Brown: Sold out in 3 minutes, limited to 10 units
